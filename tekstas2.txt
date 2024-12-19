@@ -1,0 +1,19 @@
+Tekstas su URL adresais
+Šiais laikais informacijos paieška internete tapo neatsiejama kasdienybės dalimi. Dauguma vartotojų naudojasi populiariomis svetainėmis, norėdami gauti naujausią informaciją, mokytis ar pramogauti.
+
+Pavyzdžiui, oficialus Vilniaus universiteto puslapis pasiekiamas adresu https://www.vu.lt/. Jei reikia mokslinių straipsnių, galite aplankyti www.jstor.org arba naudotis trumpu adresu, pavyzdžiui, doi.org/xyz123. Daugelis studentų taip pat naudojasi google.com paieška arba tiesiogiai įveda adresą www.wikipedia.org.
+
+Be to, naujienos apie technologijų pažangą dažnai skelbiamos tinklalapiuose, tokiuose kaip techcrunch.com arba https://www.theverge.com/. Lietuviškos žinios pasiekiamos portaluose delfi.lt, 15min.lt ir lrt.lt.
+
+Mažesni tinklaraščiai, tokie kaip saitas.xyz ar mano-blogas.lt, taip pat tampa svarbiu informacijos šaltiniu. Net ir socialiniuose tinkluose galima surasti nuorodas į svarbius straipsnius ar tyrimus, pavyzdžiui, adresu http://facebook.com/vilniusuniversity.
+
+Internete taip pat svarbu saugumas. Visada tikrinkite, ar svetainė yra saugi – dažniausiai tai rodo https:// prefiksas. Taip pat venkite nepatikimų svetainių, tokių kaip nezinoma-svetaine.abc arba kitų abejotinų adresų.
+
+Apibendrinant, internete gausu resursų su adresais įvairiais formatais:
+
+https://www.vu.lt/
+http://example.com
+www.delfi.lt
+lrt.lt
+saitas.xyz
+Būkite atidūs, rinkdamiesi šaltinius, kad informacija būtų patikima ir naudinga.
